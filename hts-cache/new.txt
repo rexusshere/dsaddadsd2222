@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:49:57	149/149	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2026%20Mar%202022%2011:49:57%20GMT	https://chatsite.glitch.me/robots.txt		(from )
+14:49:58	986/986	---M--	200	added ('OK')	text/html	etag:W/%223da-172b7d9b630%22	https://chatsite.glitch.me/	C:/Benim%20Web%20Sitem/chat/chatsite.glitch.me/index.html	(from )
+14:49:58	1869/1869	---M--	200	added ('OK')	text/css	etag:W/%2274d-164db72e750%22	https://chatsite.glitch.me/style.css	C:/Benim%20Web%20Sitem/chat/chatsite.glitch.me/style.css	(from https://chatsite.glitch.me/)
+14:49:59	85656/85656	---M-Z	200	added ('OK')	application/javascript	etag:W/%22620cd6ff-14e98%22	https://code.jquery.com/jquery-2.2.2.min.js	C:/Benim%20Web%20Sitem/chat/code.jquery.com/jquery-2.2.2.min.js	(from https://chatsite.glitch.me/)
+14:50:00	7353/7353	---M--	200	added ('OK')	application/javascript	etag:W/%221cb9-172b7d21ce0%22	https://chatsite.glitch.me/main.js	C:/Benim%20Web%20Sitem/chat/chatsite.glitch.me/main.js	(from https://chatsite.glitch.me/)
+14:50:00	62438/62438	---MC-	200	added ('OK')	application/javascript	etag:%222.1.1%22	https://chatsite.glitch.me/socket.io/socket.io.js	C:/Benim%20Web%20Sitem/chat/chatsite.glitch.me/socket.io/socket.io.js	(from https://chatsite.glitch.me/)
